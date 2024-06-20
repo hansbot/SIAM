@@ -2,7 +2,7 @@
 
 Over the years, APIs have become a catch-all phrase for any kind of interaction with a digital service. The interaction may be synchronous or asynchronous in nature, it may be message based or event oriented, it may be batch processeing or real-time, it may be textual or binary, loosely coupled or tightly coupled, anything goes.
 
-Jeff Bezos got it right, when he drafted his API Mandate:
+Jeff Bezos got it right, when he drafted his [API Mandate](/References/api-mandate.md):
 > It doesn’t matter what technology they use. HTTP, Corba, Pubsub, custom protocols — doesn’t matter
 Today I would add ReST, GraphQL, WebSocket, OData, AsyncAPI, Webhook, gRPC/Protobuf, AVRO, SSE, SOAP. Tomorrow, the list may have changed.
 

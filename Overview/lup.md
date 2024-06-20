@@ -6,13 +6,13 @@
 
 Unlike the original [Unified Process](https://en.wikipedia.org/wiki/Unified_process), which is project oriented, the [Lean Unified Process][lup] is product oriented. Thereby, it is closer aligned to modern agile frameworks. It also aligns with the widespread belief that APIs should be managed as a product. 
 
-Similar to the original [Unified Process](https://en.wikipedia.org/wiki/Unified_process), the Lean Unified Process defines 4 distinct increments. known as *stages*: 
+Similar to the original [Unified Process](https://en.wikipedia.org/wiki/Unified_process), the Lean Unified Process defines 4 distinct increments. known as *stages*. These stages are designed to rapidly drive down risks, and fail early when necessary.
 
 | # | Phase | Purpose | Trigger |
 | ----------- | ----------- | ----------- | ----------- |
 | 1 | [Exploration](/Stages/exploration.md) | Alignment | [Business Opportunity](/Stages/bus-oppo.md) |
 | 2 | [Inception](/Stages/inception.md) | Scoping | [Business Case](/Stages/bus-case.md) |
-| 3 | [Elaboration](/Stages/elaboration.md) | Design | [Business Case](/Stages/dev-case.md) |
+| 3 | [Elaboration](/Stages/elaboration.md) | Design | [Development Case](/Stages/dev-case.md) |
 | 4 | [Delivery](/Stages/delivery.md) | Working Software | Accepted Prototype |
 
 Notice that the [Inception](/Stages/inception.md) stage is preceeded by an [Exploration](/Stages/exploration.md) phase. This is an essential addition to the process. It is where the product gets shaped. The Construction and Transition phases have been merged into a single [Delivery](/Stages/delivery.md) phase. This aligns with the Agile way of working, sometimes summarized in the principle "You build it, you run it". It allows for a highly iterative devops approach, resulting in "continuous delivery". It also recognizes that an API is never finished unless the last consumer is retired. 
