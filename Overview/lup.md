@@ -3,3 +3,26 @@
 > First post 20 June 2024
 > Last edit
 
+Unlike the original [Unified Process](https://en.wikipedia.org/wiki/Unified_process), which is project oriented, the [Lean Unified Process](/Overview/lup.md) is product oriented. Thereby, it is closer aligned to modern agile frameworks. It also aligns with the widespread belief that APIs should be managed as a product. 
+
+Similar to the original [Unified Process](https://en.wikipedia.org/wiki/Unified_process), the Lean Unified Process defines 4 distinct increments: 
+| # | Phase | Purpose | Trigger |
+| 1 | [Exploration](/Phases/exploration.md) | Alignment | Business Opportunity |
+| 2 | [Inception](/Phases/inception.md) | Scoping | Business Case |
+| 3 | [Elaboration](/Phases/elaboration.md) | Design | Development Case |
+| 4 | [Delivery](/Phases/delivery.md) | Working Software | Finished Prototype |
+
+Notice that the [Inception](/Phases/inception.md) phase is preceeded by an [Exploration](/Phases/exploration.md) phase. This is an important addition to the process. It is where the product gets shaped. The Construction and Transition phases have been merged into a single [Delivery](/Phases/delivery.md) phase. This aligns with the Agile way of working, sometimes summarized in the principle "You build it, you run it". It allows for a highly iterative devops approach, resulting in "continuous delivery". It also recognizes that an API is never finished unless the last consumer is retired. 
+
+![Model of the Lean Unified Process](/images/lup.png)
+
+The "disciplines" in the original are replaced with 6 Core Capabilities. 
+- API Governance
+- API Ownership
+- API Design
+- API Engineering
+- API Management
+- API Security
+
+Notice that the prefix [API](/api.md) here defines what makes the process Lean, by focussing on Interfaces rather than the insides of a bounded context. This opens the door for a more informal way of working during the delivery phase. The [Lean Unified Process](/Overview/lup.md) just sets the guardrails and controls the boundaries.
+
