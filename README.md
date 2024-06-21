@@ -1,11 +1,12 @@
-# Welcome
+# Welcome to the Lean Unified Process Guide
 
-This is the space of the [Lean Unified Process](/introduction.md) Project.
-It is very much work in progress.
+Here's [why](/index.md) the Guide got established 
+
+ is very much work in progress.
 
 ## Index
-- Overview
-- Stages
+- Here's an overview of the [Lean Unified Process](/index.md) Guide. This is a good starting point to discover the Process.
+- Here's an overview of the [LUP Stages](/Stages/overview.md)
 - Capabilities
 - Deliverables
 
