@@ -12,3 +12,9 @@ Here are the core principles he proposed.
 | Cacheable	| The server response must contain information about whether or not the data is cacheable, allowing the client and any middleware servers to cache data outside of the API server |
 | Code on demand |	The client can request code from the server, usually in the form of a script or binary package, for client-side execution. This is performed today by browsers requesting JavaScript files to extend the behavior of a Web page |
 | Uniform interface |	Encourages independent evolvability by leaning on resource-based identification, interaction using representations, self-descriptive messages, and hypermedia controls |
+
+The moniker 'Hypertext as the Engine of Application State', or its acronym HATEOAS, is sometimes used as an overarching principle.
+
+[<img src="/images/lup logo s.png" alt="drawing" class="center" width="338"/>](/Overview/leanup.md)
+
+*License*: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)

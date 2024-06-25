@@ -32,7 +32,12 @@ During Elaboration, the focus is on ensuring that all the design choices have be
 ## Decision
 Based on the findings, the Product Development Researcher makes a recommendation to the Product Accountable. The Product Accountable decides whether to include the proposed product on the product development plan.
 
+[<img src="/images/lup logo s.png" alt="drawing" class="center" width="338"/>](/Stages/overview.md)
+
+
 [buscase]: /Artefacts/bus-case.md
 [devcase]: /Artefacts/dev-case.md
 [proto]: [/Artefacts/prototype.md]
 [risks]: /Artefacts/risklist.md
+
+*License*: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)

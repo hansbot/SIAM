@@ -53,3 +53,7 @@ And many more.
 | Jim Webber | Who introduced met to the principle of smart endpoints and dumb pipes way back when |
 | Jan de Brieder | Who gave me the brightest introduction to IT Architecture I could have wished for |
 | Werner Vogels | Always thought provoking and one step ahead. Werner got me excited for cloud computing when AWS were only a scaleup |
+
+[<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="338"/>](/Overview/leanup.md)
+
+*License*: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)

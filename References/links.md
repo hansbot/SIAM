@@ -1,49 +1,64 @@
-# List of References
+# List of Contents
 
 ## A
-[API](/api.md)
-[API Design](/Capabilities/design.md)
-[API Engineering](/Capabilities/engineering.md)
-[API Governance](/Capabilities/governance.md)
-[API Management](/Capabilities/management.md)
-[API Mandate](/References/api-mandate.md)
-[API Ownership](/Capabilities/ownership.md)
-[API Security](/Capabilities/security.md)
-[Artefacts](/Artefacts/overview.md)
+- [API](/api.md)
+- [API Design](/Capabilities/design.md)
+- [API Engineering](/Capabilities/engineering.md)
+- [API Governance](/Capabilities/governance.md)
+- [API Management](/Capabilities/management.md)
+- [API Mandate](/References/api-mandate.md)
+- [API Ownership](/Capabilities/ownership.md)
+- [API Security](/Capabilities/security.md)
+- [Artefacts](/Artefacts/overview.md)
 ## B
-[Business Opportunity](/Artefacts/bus-oppo.md)
-[Business Case](/Artefacts/bus-case.md)
 ## C
-[Capabilities](/Capabilities/overview.md)
+- [Capabilities](/Capabilities/overview.md)
+- [Credits](/credits.md)
 ## D
-[Delivery](/Stages/delivery.md)
-[Development Case](/Artefacts/dev-case.md)
+- [Delivery](/Stages/delivery.md)
+- [Design Capability](/Capabilities/design.md)
+- [Development Case](/Artefacts/dev-case.md)
 ## E
-[Elaboration](/Stages/elaboration.md)
-[Exploration](/Stages/exploration.md)
+- [Elaboration](/Stages/elaboration.md)
+- [Engineering Capability](/Capabilities/engineering.md)
+- [Exploration](/Stages/exploration.md)
 ## F
 ## G
+- [Governance Capability](/Capabilities/governance.md)
 ## H
 ## I
-[Inception](/Stages/inception.md)
+- [Inception](/Stages/inception.md)
+- [Introduction](/index.md)
 ## J
 ## K
 ## L
-[Lean Unified Process](/Overview/lup.md)
-## MN
+- [LeanUP](/Overview/lup.md)
+## M
+- [Mananagement Capabiliy](/Capabilities/management.md)
+- [Model Overview](/Overview/leanup.md)
+## N
 ## O
-LUP [Overview](/Overview/lup.md)
+- Model [Overview](/Overview/leanup.md)
+- [Ownership Capability](/Capabilities/ownership.md)
 ## P
-[Prototype Review](/Artefacts/pro-review.md)
+- [Process Overview](/Overview/lup.md)
+- [Prototype Review](/Artefacts/pro-review.md)
 ## Q
 ## R
-[References](/References/links.md)
-[ReST API Style](/References/rest.md)
-[Risklist](/Artefacts/risklist.md)
+- [References](/References/links.md)
+- [Release Review](/Artefacts/rel-review)
+- [ReST API Style](/References/rest.md)
+- [Risklist](/Artefacts/risklist.md)
 ## S
-LUP [Stages](/Stages/overview.md)
-##TUVWXYZ
+- [Security Capability](/Capabilities/security.md)
+- [Security Plan](/Artefacts/sec-plan)
+- [Stages](/Stages/overview.md)
+## TU
+## V
+[Value Opportunity](/Artefacts/val-oppo.md)
+[Value Case](/Artefacts/val-case.md)
+## WXYZ
 
-[<img src="/images/lup logo s.png" alt="drawing" width="338"/>](/Overview/lup.md)
+[<img src="/images/lup logo s.png" alt="drawing" class="center" width="338"/>](/Overview/leanup.md)
 
-
+*License*: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)

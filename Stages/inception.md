@@ -9,18 +9,18 @@
 - Responsible : Product Architect
 
 ## Objective
-- Establishing the feasibility of the [Business Opportunity][oppo]
+- Establishing the feasibility of the [Value Opportunity][oppo]
 - Creating alignment among Stakeholders
 - Creating an initial [Development Case][devcase]
 
 ## Input
-- [Business Opportunity][oppo]
+- [Value Opportunity][oppo]
 
 ## Outcome
-- Feasibility of the [Business Opportunity][oppo] has been established
+- Feasibility of the [Value Opportunity][oppo] has been established
 - If feasible, then 
-  - the scope of the [Business Opportunity][oppo] has been defined.
-  - the [Business Case][buscase] has been refined
+  - the scope of the [Value Opportunity][oppo] has been defined.
+  - the [Value Case][valcase] has been refined
   - the initial [Development Case][devcase] has been accepted
   - the initial [Product Risk List](/Artefacts/risklist.md) has been established
 
@@ -30,8 +30,10 @@ During Inception, the focus is on ensuring that the product is technically feasi
 ## Decision
 Based on the findings, the Product Architect makes a recommendation to the Product Accountable. The Product Accountable decides whether to release the budget for the next phase, and to assign the required resources.
 
-[<img src="/images/lup logo s.png" alt="drawing" width="338"/>](/Overview/lup.md)
+[<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="338"/>](/Stages/overview.md)
 
-[oppo]: /Deliverables/bus-oppo.md
+*License*: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+
+[oppo]: /Deliverables/val-oppo.md
 [devcase]: /Deliverables/dev-case.md
-[buscase]: /Deliverables/bus-case.md
+[valcase]: /Deliverables/val-case.md

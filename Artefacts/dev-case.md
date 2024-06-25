@@ -4,10 +4,10 @@
 
 > Last edit : 21 June 2024
 
-A [Development Case](/Artefacts/dev-case.md) artefact has the specification of the business value and costs for the proposed product development.
+A [Development Case](/Artefacts/dev-case.md) artefact has the outline of the development plan for the proposed product development.
 
 ## Questions to Answer
-Every [Business Opportunity][oppo] is different. Hence, the questions that the Product Architect must answer might vary. 
+Every [Value Opportunity][oppo] is different. Hence, the questions that the Product Architect must answer might vary. 
 
 This is a list of typical questions that are discussed during the [Exploration Stage][expl]
 1. What API(s) do we design for which audience? In what order?
@@ -23,7 +23,9 @@ This is a list of typical questions that are discussed during the [Exploration S
 
 Usually, the answers have a certain degree of uncertainty. A proof-of-concept may serve to drive down the risks to the feasibility of the product. It may also serve to more reliably plan the elaboration stage. 
 
-[<img src="/images/lup logo s.png" alt="drawing" width="338"/>](/Overview/lup.md)
+[<img src="/images/leanupLogo s.png" alt="drawing" class="center" width="338"/>](/Artefacts/overview.md)
 
-[oppo]: /Artefacts/bus-oppo.md
+*License*: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+
+[oppo]: /Artefacts/val-oppo.md
 [expl]: /Stages/exploration.md
